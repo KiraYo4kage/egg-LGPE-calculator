@@ -1,6 +1,6 @@
 # LGPE-calculator
 
-A calculator tool for let's go pokemon pickchu/eevee battle.
+A calculator tool for let's go pokemon pikachu/eevee battle.
 
 ## QuickStart
 
