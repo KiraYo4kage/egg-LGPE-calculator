@@ -8,3 +8,17 @@ A calculator tool for let's go pokemon pikachu/eevee battle.
 
 this is a server project, see [fontend project](https://github.com/KiraYo4kage/frontend-LGPE-calculator)
 
+install dependencies
+```
+$ yarn
+```
+
+$ start project
+```
+yarn start
+```
+
+stop process
+```
+$ yarn stop
+```
