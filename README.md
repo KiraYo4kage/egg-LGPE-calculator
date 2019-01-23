@@ -13,9 +13,9 @@ install dependencies
 $ yarn
 ```
 
-$ start project
+start project
 ```
-yarn start
+$ yarn start
 ```
 
 stop process
