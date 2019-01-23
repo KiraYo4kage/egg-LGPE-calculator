@@ -27,5 +27,18 @@ module.exports = appInfo => {
     '/public/favicon.ico': '/public/pokeball-flat.png',
   };
 
+  config.view = {
+    mapping: {
+      '.html': 'nunjucks',
+    },
+  };
+
+  config.assets = {
+    publicPath: '/view',
+    devServer: {
+      port: 7003,
+    },
+  };
+
   return config;
 };
