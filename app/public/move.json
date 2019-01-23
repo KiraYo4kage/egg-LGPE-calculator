@@ -1,0 +1,1818 @@
+[
+  {
+    "chineseName": "拍击",
+    "englishName": "Pound",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "空手劈",
+    "englishName": "Karate Chop",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "50",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "连环巴掌",
+    "englishName": "Double Slap",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "15",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "连续拳",
+    "englishName": "Comet Punch",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "18",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "百万吨重拳",
+    "englishName": "Mega Punch",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "聚宝功",
+    "englishName": "Pay Day",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "火焰拳",
+    "englishName": "Fire Punch",
+    "attribute": "火",
+    "type": "物理",
+    "power": "75",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "冰冻拳",
+    "englishName": "Ice Punch",
+    "attribute": "冰",
+    "type": "物理",
+    "power": "75",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "雷电拳",
+    "englishName": "Thunder Punch",
+    "attribute": "电",
+    "type": "物理",
+    "power": "75",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "抓",
+    "englishName": "Scratch",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "夹住",
+    "englishName": "Vice Grip",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "55",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "断头钳",
+    "englishName": "Guillotine",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "变化"
+  },
+  {
+    "chineseName": "旋风刀",
+    "englishName": "Razor Wind",
+    "attribute": "一般",
+    "type": "特殊",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "剑舞",
+    "englishName": "Swords Dance",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "居合斩",
+    "englishName": "Cut",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "50",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "起风",
+    "englishName": "Gust",
+    "attribute": "飞行",
+    "type": "特殊",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "翅膀攻击",
+    "englishName": "Wing Attack",
+    "attribute": "飞行",
+    "type": "物理",
+    "power": "60",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "吹飞",
+    "englishName": "Whirlwind",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "飞翔",
+    "englishName": "Fly",
+    "attribute": "飞行",
+    "type": "物理",
+    "power": "90",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "绑紧",
+    "englishName": "Bind",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "15",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "摔打",
+    "englishName": "Slam",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "75"
+  },
+  {
+    "chineseName": "藤鞭",
+    "englishName": "Vine Whip",
+    "attribute": "草",
+    "type": "物理",
+    "power": "45",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "踩踏",
+    "englishName": "Stomp",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "65",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "二连踢",
+    "englishName": "Double Kick",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "30",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "百万吨重踢",
+    "englishName": "Mega Kick",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "120",
+    "accuracy": "75"
+  },
+  {
+    "chineseName": "飞踢",
+    "englishName": "Jump Kick",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "100",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "回旋踢",
+    "englishName": "Rolling Kick",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "60",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "泼沙",
+    "englishName": "Sand Attack",
+    "attribute": "地面",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "头锤",
+    "englishName": "Headbutt",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "70",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "角撞",
+    "englishName": "Horn Attack",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "65",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "乱击",
+    "englishName": "Fury Attack",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "15",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "角钻",
+    "englishName": "Horn Drill",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "变化"
+  },
+  {
+    "chineseName": "撞击",
+    "englishName": "Tackle",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "泰山压顶",
+    "englishName": "Body Slam",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "85",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "紧束",
+    "englishName": "Wrap",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "15",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "猛撞",
+    "englishName": "Take Down",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "90",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "大闹一番",
+    "englishName": "Thrash",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "120",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "舍身冲撞",
+    "englishName": "Double-Edge",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "120",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "摇尾巴",
+    "englishName": "Tail Whip",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "毒针",
+    "englishName": "Poison Sting",
+    "attribute": "毒",
+    "type": "物理",
+    "power": "15",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "双针",
+    "englishName": "Twineedle",
+    "attribute": "虫",
+    "type": "物理",
+    "power": "25",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "飞弹针",
+    "englishName": "Pin Missile",
+    "attribute": "虫",
+    "type": "物理",
+    "power": "25",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "瞪眼",
+    "englishName": "Leer",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "咬住",
+    "englishName": "Bite",
+    "attribute": "恶",
+    "type": "物理",
+    "power": "60",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "叫声",
+    "englishName": "Growl",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "吼叫",
+    "englishName": "Roar",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "唱歌",
+    "englishName": "Sing",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "55"
+  },
+  {
+    "chineseName": "超音波",
+    "englishName": "Supersonic",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "55"
+  },
+  {
+    "chineseName": "音爆",
+    "englishName": "Sonic Boom",
+    "attribute": "一般",
+    "type": "特殊",
+    "power": "变化",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "定身法",
+    "englishName": "Disable",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "溶解液",
+    "englishName": "Acid",
+    "attribute": "毒",
+    "type": "特殊",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "火花",
+    "englishName": "Ember",
+    "attribute": "火",
+    "type": "特殊",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "喷射火焰",
+    "englishName": "Flamethrower",
+    "attribute": "火",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "白雾",
+    "englishName": "Mist",
+    "attribute": "冰",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "水枪",
+    "englishName": "Water Gun",
+    "attribute": "水",
+    "type": "特殊",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "水炮",
+    "englishName": "Hydro Pump",
+    "attribute": "水",
+    "type": "特殊",
+    "power": "110",
+    "accuracy": "80"
+  },
+  {
+    "chineseName": "冲浪",
+    "englishName": "Surf",
+    "attribute": "水",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "冰冻光束",
+    "englishName": "Ice Beam",
+    "attribute": "冰",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "暴风雪",
+    "englishName": "Blizzard",
+    "attribute": "冰",
+    "type": "特殊",
+    "power": "110",
+    "accuracy": "70"
+  },
+  {
+    "chineseName": "幻象光线",
+    "englishName": "Psybeam",
+    "attribute": "超能力",
+    "type": "特殊",
+    "power": "65",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "泡沫光线",
+    "englishName": "Bubble Beam",
+    "attribute": "水",
+    "type": "特殊",
+    "power": "65",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "极光束",
+    "englishName": "Aurora Beam",
+    "attribute": "冰",
+    "type": "特殊",
+    "power": "65",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "破坏光线",
+    "englishName": "Hyper Beam",
+    "attribute": "一般",
+    "type": "特殊",
+    "power": "150",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "啄",
+    "englishName": "Peck",
+    "attribute": "飞行",
+    "type": "物理",
+    "power": "35",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "啄钻",
+    "englishName": "Drill Peck",
+    "attribute": "飞行",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "地狱翻滚",
+    "englishName": "Submission",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "80"
+  },
+  {
+    "chineseName": "踢倒",
+    "englishName": "Low Kick",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "双倍奉还",
+    "englishName": "Counter",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "地球上投",
+    "englishName": "Seismic Toss",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "怪力",
+    "englishName": "Strength",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "吸取",
+    "englishName": "Absorb",
+    "attribute": "草",
+    "type": "特殊",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "超级吸取",
+    "englishName": "Mega Drain",
+    "attribute": "草",
+    "type": "特殊",
+    "power": "75",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "寄生种子",
+    "englishName": "Leech Seed",
+    "attribute": "草",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "生长",
+    "englishName": "Growth",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "飞叶快刀",
+    "englishName": "Razor Leaf",
+    "attribute": "草",
+    "type": "物理",
+    "power": "55",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "日光束",
+    "englishName": "Solar Beam",
+    "attribute": "草",
+    "type": "特殊",
+    "power": "200",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "毒粉",
+    "englishName": "Poison Powder",
+    "attribute": "毒",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "75"
+  },
+  {
+    "chineseName": "麻痹粉",
+    "englishName": "Stun Spore",
+    "attribute": "草",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "75"
+  },
+  {
+    "chineseName": "催眠粉",
+    "englishName": "Sleep Powder",
+    "attribute": "草",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "75"
+  },
+  {
+    "chineseName": "花瓣舞",
+    "englishName": "Petal Dance",
+    "attribute": "草",
+    "type": "特殊",
+    "power": "120",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "吐丝",
+    "englishName": "String Shot",
+    "attribute": "虫",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "龙之怒",
+    "englishName": "Dragon Rage",
+    "attribute": "龙",
+    "type": "特殊",
+    "power": "变化",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "火焰旋涡",
+    "englishName": "Fire Spin",
+    "attribute": "火",
+    "type": "特殊",
+    "power": "35",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "电击",
+    "englishName": "Thunder Shock",
+    "attribute": "电",
+    "type": "特殊",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "十万伏特",
+    "englishName": "Thunderbolt",
+    "attribute": "电",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "电磁波",
+    "englishName": "Thunder Wave",
+    "attribute": "电",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "打雷",
+    "englishName": "Thunder",
+    "attribute": "电",
+    "type": "特殊",
+    "power": "110",
+    "accuracy": "70"
+  },
+  {
+    "chineseName": "落石",
+    "englishName": "Rock Throw",
+    "attribute": "岩石",
+    "type": "物理",
+    "power": "50",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "地震",
+    "englishName": "Earthquake",
+    "attribute": "地面",
+    "type": "物理",
+    "power": "100",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "地裂",
+    "englishName": "Fissure",
+    "attribute": "地面",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "变化"
+  },
+  {
+    "chineseName": "挖洞",
+    "englishName": "Dig",
+    "attribute": "地面",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "剧毒",
+    "englishName": "Toxic",
+    "attribute": "毒",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "念力",
+    "englishName": "Confusion",
+    "attribute": "超能力",
+    "type": "特殊",
+    "power": "50",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "精神强念",
+    "englishName": "Psychic",
+    "attribute": "超能力",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "催眠术",
+    "englishName": "Hypnosis",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "60"
+  },
+  {
+    "chineseName": "瑜伽姿势",
+    "englishName": "Meditate",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "高速移动",
+    "englishName": "Agility",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "电光一闪",
+    "englishName": "Quick Attack",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "愤怒",
+    "englishName": "Rage",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "20",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "瞬间移动",
+    "englishName": "Teleport",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "黑夜魔影",
+    "englishName": "Night Shade",
+    "attribute": "幽灵",
+    "type": "特殊",
+    "power": "变化",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "模仿",
+    "englishName": "Mimic",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "刺耳声",
+    "englishName": "Screech",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "影子分身",
+    "englishName": "Double Team",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "自我再生",
+    "englishName": "Recover",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "变硬",
+    "englishName": "Harden",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "变小",
+    "englishName": "Minimize",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "烟幕",
+    "englishName": "Smokescreen",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "奇异之光",
+    "englishName": "Confuse Ray",
+    "attribute": "幽灵",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "缩入壳中",
+    "englishName": "Withdraw",
+    "attribute": "水",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "变圆",
+    "englishName": "Defense Curl",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "屏障",
+    "englishName": "Barrier",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "光墙",
+    "englishName": "Light Screen",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "黑雾",
+    "englishName": "Haze",
+    "attribute": "冰",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "反射壁",
+    "englishName": "Reflect",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "聚气",
+    "englishName": "Focus Energy",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "忍耐",
+    "englishName": "Bide",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "挥指",
+    "englishName": "Metronome",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "鹦鹉学舌",
+    "englishName": "Mirror Move",
+    "attribute": "飞行",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "自爆",
+    "englishName": "Self-Destruct",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "200",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "炸蛋",
+    "englishName": "Egg Bomb",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "100",
+    "accuracy": "75"
+  },
+  {
+    "chineseName": "舌舔",
+    "englishName": "Lick",
+    "attribute": "幽灵",
+    "type": "物理",
+    "power": "30",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "浊雾",
+    "englishName": "Smog",
+    "attribute": "毒",
+    "type": "特殊",
+    "power": "30",
+    "accuracy": "70"
+  },
+  {
+    "chineseName": "污泥攻击",
+    "englishName": "Sludge",
+    "attribute": "毒",
+    "type": "特殊",
+    "power": "65",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "骨棒",
+    "englishName": "Bone Club",
+    "attribute": "地面",
+    "type": "物理",
+    "power": "65",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "大字爆炎",
+    "englishName": "Fire Blast",
+    "attribute": "火",
+    "type": "特殊",
+    "power": "110",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "攀瀑",
+    "englishName": "Waterfall",
+    "attribute": "水",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "贝壳夹击",
+    "englishName": "Clamp",
+    "attribute": "水",
+    "type": "物理",
+    "power": "35",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "高速星星",
+    "englishName": "Swift",
+    "attribute": "一般",
+    "type": "特殊",
+    "power": "60",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "火箭头锤",
+    "englishName": "Skull Bash",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "130",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "尖刺加农炮",
+    "englishName": "Spike Cannon",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "20",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "缠绕",
+    "englishName": "Constrict",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "10",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "瞬间失忆",
+    "englishName": "Amnesia",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "折弯汤匙",
+    "englishName": "Kinesis",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "80"
+  },
+  {
+    "chineseName": "生蛋",
+    "englishName": "Soft-Boiled",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "飞膝踢",
+    "englishName": "High Jump Kick",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "130",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "大蛇瞪眼",
+    "englishName": "Glare",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "食梦",
+    "englishName": "Dream Eater",
+    "attribute": "超能力",
+    "type": "特殊",
+    "power": "100",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "毒瓦斯",
+    "englishName": "Poison Gas",
+    "attribute": "毒",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "投球",
+    "englishName": "Barrage",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "15",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "吸血",
+    "englishName": "Leech Life",
+    "attribute": "虫",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "恶魔之吻",
+    "englishName": "Lovely Kiss",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "75"
+  },
+  {
+    "chineseName": "神鸟猛击",
+    "englishName": "Sky Attack",
+    "attribute": "飞行",
+    "type": "物理",
+    "power": "200",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "变身",
+    "englishName": "Transform",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "泡沫",
+    "englishName": "Bubble",
+    "attribute": "水",
+    "type": "特殊",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "迷昏拳",
+    "englishName": "Dizzy Punch",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "70",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "蘑菇孢子",
+    "englishName": "Spore",
+    "attribute": "草",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "闪光",
+    "englishName": "Flash",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "精神波",
+    "englishName": "Psywave",
+    "attribute": "超能力",
+    "type": "特殊",
+    "power": "变化",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "跃起",
+    "englishName": "Splash",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "溶化",
+    "englishName": "Acid Armor",
+    "attribute": "毒",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "蟹钳锤",
+    "englishName": "Crabhammer",
+    "attribute": "水",
+    "type": "物理",
+    "power": "100",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "大爆炸",
+    "englishName": "Explosion",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "250",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "乱抓",
+    "englishName": "Fury Swipes",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "18",
+    "accuracy": "80"
+  },
+  {
+    "chineseName": "骨头回力镖",
+    "englishName": "Bonemerang",
+    "attribute": "地面",
+    "type": "物理",
+    "power": "50",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "睡觉",
+    "englishName": "Rest",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "岩崩",
+    "englishName": "Rock Slide",
+    "attribute": "岩石",
+    "type": "物理",
+    "power": "75",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "必杀门牙",
+    "englishName": "Hyper Fang",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "棱角化",
+    "englishName": "Sharpen",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "纹理",
+    "englishName": "Conversion",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "三重攻击",
+    "englishName": "Tri Attack",
+    "attribute": "一般",
+    "type": "特殊",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "愤怒门牙",
+    "englishName": "Super Fang",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "劈开",
+    "englishName": "Slash",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "70",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "替身",
+    "englishName": "Substitute",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "挣扎",
+    "englishName": "Struggle",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "50",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "守住",
+    "englishName": "Protect",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "污泥炸弹",
+    "englishName": "Sludge Bomb",
+    "attribute": "毒",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "逆鳞",
+    "englishName": "Outrage",
+    "attribute": "龙",
+    "type": "物理",
+    "power": "120",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "超级角击",
+    "englishName": "Megahorn",
+    "attribute": "虫",
+    "type": "物理",
+    "power": "120",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "再来一次",
+    "englishName": "Encore",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "铁尾",
+    "englishName": "Iron Tail",
+    "attribute": "钢",
+    "type": "物理",
+    "power": "100",
+    "accuracy": "75"
+  },
+  {
+    "chineseName": "咬碎",
+    "englishName": "Crunch",
+    "attribute": "恶",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "镜面反射",
+    "englishName": "Mirror Coat",
+    "attribute": "超能力",
+    "type": "特殊",
+    "power": "变化",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "暗影球",
+    "englishName": "Shadow Ball",
+    "attribute": "幽灵",
+    "type": "特殊",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "击掌奇袭",
+    "englishName": "Fake Out",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "热风",
+    "englishName": "Heat Wave",
+    "attribute": "火",
+    "type": "特殊",
+    "power": "95",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "鬼火",
+    "englishName": "Will-O-Wisp",
+    "attribute": "火",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "硬撑",
+    "englishName": "Facade",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "70",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "挑衅",
+    "englishName": "Taunt",
+    "attribute": "恶",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "帮助",
+    "englishName": "Helping Hand",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "蛮力",
+    "englishName": "Superpower",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "120",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "劈瓦",
+    "englishName": "Brick Break",
+    "attribute": "格斗",
+    "type": "物理",
+    "power": "75",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "哈欠",
+    "englishName": "Yawn",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "健美",
+    "englishName": "Bulk Up",
+    "attribute": "格斗",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "冥想",
+    "englishName": "Calm Mind",
+    "attribute": "超能力",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "羽栖",
+    "englishName": "Roost",
+    "attribute": "飞行",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "佯攻",
+    "englishName": "Feint",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "50",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "急速折返",
+    "englishName": "U-turn",
+    "attribute": "虫",
+    "type": "物理",
+    "power": "70",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "突袭",
+    "englishName": "Sucker Punch",
+    "attribute": "恶",
+    "type": "物理",
+    "power": "70",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "闪焰冲锋",
+    "englishName": "Flare Blitz",
+    "attribute": "火",
+    "type": "物理",
+    "power": "120",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "毒击",
+    "englishName": "Poison Jab",
+    "attribute": "毒",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "恶之波动",
+    "englishName": "Dark Pulse",
+    "attribute": "恶",
+    "type": "特殊",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "空气斩",
+    "englishName": "Air Slash",
+    "attribute": "飞行",
+    "type": "特殊",
+    "power": "75",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "十字剪",
+    "englishName": "X-Scissor",
+    "attribute": "虫",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "虫鸣",
+    "englishName": "Bug Buzz",
+    "attribute": "虫",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "龙之波动",
+    "englishName": "Dragon Pulse",
+    "attribute": "龙",
+    "type": "特殊",
+    "power": "85",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "诡计",
+    "englishName": "Nasty Plot",
+    "attribute": "恶",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "冰砾",
+    "englishName": "Ice Shard",
+    "attribute": "冰",
+    "type": "物理",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "加农光炮",
+    "englishName": "Flash Cannon",
+    "attribute": "钢",
+    "type": "特殊",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "强力鞭打",
+    "englishName": "Power Whip",
+    "attribute": "草",
+    "type": "物理",
+    "power": "120",
+    "accuracy": "85"
+  },
+  {
+    "chineseName": "隐形岩",
+    "englishName": "Stealth Rock",
+    "attribute": "岩石",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "水流喷射",
+    "englishName": "Aqua Jet",
+    "attribute": "水",
+    "type": "物理",
+    "power": "40",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "蝶舞",
+    "englishName": "Quiver Dance",
+    "attribute": "虫",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "重磅冲撞",
+    "englishName": "Heavy Slam",
+    "attribute": "钢",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "欺诈",
+    "englishName": "Foul Play",
+    "attribute": "恶",
+    "type": "物理",
+    "power": "95",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "清除之烟",
+    "englishName": "Clear Smog",
+    "attribute": "毒",
+    "type": "特殊",
+    "power": "50",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "热水",
+    "englishName": "Scald",
+    "attribute": "水",
+    "type": "特殊",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "破壳",
+    "englishName": "Shell Smash",
+    "attribute": "一般",
+    "type": "变化",
+    "power": "—",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "龙尾",
+    "englishName": "Dragon Tail",
+    "attribute": "龙",
+    "type": "物理",
+    "power": "60",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "直冲钻",
+    "englishName": "Drill Run",
+    "attribute": "地面",
+    "type": "物理",
+    "power": "80",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "嬉闹",
+    "englishName": "Play Rough",
+    "attribute": "妖精",
+    "type": "物理",
+    "power": "90",
+    "accuracy": "90"
+  },
+  {
+    "chineseName": "月亮之力",
+    "englishName": "Moonblast",
+    "attribute": "妖精",
+    "type": "特殊",
+    "power": "95",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "魔法闪耀",
+    "englishName": "Dazzling Gleam",
+    "attribute": "妖精",
+    "type": "特殊",
+    "power": "80",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "电电加速",
+    "englishName": "Zippy Zap",
+    "attribute": "电",
+    "type": "物理",
+    "power": "50",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "滔滔冲浪",
+    "englishName": "Splishy Splash",
+    "attribute": "水",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "飘飘坠落",
+    "englishName": "Floaty Fall",
+    "attribute": "飞行",
+    "type": "物理",
+    "power": "90",
+    "accuracy": "95"
+  },
+  {
+    "chineseName": "闪闪雷光",
+    "englishName": "Pika Papow",
+    "attribute": "电",
+    "type": "特殊",
+    "power": "变化",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "活活气泡",
+    "englishName": "Bouncy Bubble",
+    "attribute": "水",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "麻麻电击",
+    "englishName": "Buzzy Blitz",
+    "attribute": "电",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "熊熊火爆",
+    "englishName": "Sizzly Slide",
+    "attribute": "火",
+    "type": "物理",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "哗哗气场",
+    "englishName": "Glitzy Glow",
+    "attribute": "超能力",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "坏坏领域",
+    "englishName": "Baddy Bad",
+    "attribute": "恶",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "茁茁轰炸",
+    "englishName": "Sappy Seed",
+    "attribute": "草",
+    "type": "物理",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "冰冰霜冻",
+    "englishName": "Freezy Frost",
+    "attribute": "冰",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "亮亮风暴",
+    "englishName": "Sparkly Swirl",
+    "attribute": "妖精",
+    "type": "特殊",
+    "power": "90",
+    "accuracy": "100"
+  },
+  {
+    "chineseName": "砰砰击破",
+    "englishName": "Veevee Volley",
+    "attribute": "一般",
+    "type": "物理",
+    "power": "变化",
+    "accuracy": "—"
+  },
+  {
+    "chineseName": "钢拳双击",
+    "englishName": "Double Iron Bash",
+    "attribute": "钢",
+    "type": "物理",
+    "power": "60",
+    "accuracy": "100"
+  }
+]

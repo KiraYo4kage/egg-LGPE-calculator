@@ -1,0 +1,74 @@
+{
+  "Normal": {
+    "color": "rgb(187, 187, 170)",
+    "chineseName": "一般"
+  },
+  "Fire": {
+    "color": "rgb(255, 68, 34)",
+    "chineseName": "火"
+  },
+  "Bug": {
+    "color": "rgb(170, 187, 34)",
+    "chineseName": "虫"
+  },
+  "Water": {
+    "color": "rgb(51, 153, 255)",
+    "chineseName": "水"
+  },
+  "Poison": {
+    "color": "rgb(170, 85, 153)",
+    "chineseName": "毒"
+  },
+  "Electric": {
+    "color": "rgb(255, 204, 51)",
+    "chineseName": "电"
+  },
+  "Flying": {
+    "color": "rgb(102, 153, 255)",
+    "chineseName": "飞行"
+  },
+  "Grass": {
+    "color": "rgb(119, 204, 85)",
+    "chineseName": "草"
+  },
+  "Ground": {
+    "color": "rgb(221, 187, 85)",
+    "chineseName": "地面"
+  },
+  "Ice": {
+    "color": "rgb(119, 221, 255)",
+    "chineseName": "冰"
+  },
+  "Fighting": {
+    "color": "rgb(187, 85, 68)",
+    "chineseName": "格斗"
+  },
+  "Psychic": {
+    "color": "rgb(255, 85, 153)",
+    "chineseName": "超能力"
+  },
+  "Rock": {
+    "color": "rgb(187, 170, 102)",
+    "chineseName": "岩石"
+  },
+  "Ghost": {
+    "color": "rgb(102, 102, 187)",
+    "chineseName": "幽灵"
+  },
+  "Dragon": {
+    "color": "rgb(119, 102, 238)",
+    "chineseName": "龙"
+  },
+  "Dark": {
+    "color": "rgb(119, 85, 68)",
+    "chineseName": "恶"
+  },
+  "Steel": {
+    "color": "rgb(170, 170, 187)",
+    "chineseName": "钢"
+  },
+  "Fairy": {
+    "color": "rgb(255, 170, 255)",
+    "chineseName": "妖精"
+  }
+}

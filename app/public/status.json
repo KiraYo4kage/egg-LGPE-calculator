@@ -1,0 +1,38 @@
+{
+  "Burn": {
+    "name": "burn",
+    "chineseName": "灼伤",
+    "description": "非固定物理招式造成的伤害减半,每回合损失最大HP的1/16",
+    "damage": 0.0625
+  },
+  "Freeze": {
+    "name": "freeze",
+    "chineseName": "冰冻",
+    "description": "无法行动,每回合20%概率解除",
+    "damage": 0
+  },
+  "Paralysis": {
+    "name": "paralysis",
+    "chineseName": "麻痹",
+    "description": "速度减半，有25%几率无法行动",
+    "damage": 0
+  },
+  "Poison": {
+    "name": "poison",
+    "chineseName": "中毒",
+    "description": "回合结束时损失最大HP的1⁄8",
+    "damage": 0.125
+  },
+  "BadlyPoison": {
+    "name": "badly poison",
+    "chineseName": "剧毒",
+    "description": "回合结束时损失最大HP的(回合数)⁄16，最多损失15/16",
+    "damage": 0.0625
+  },
+  "Sleep": {
+    "name": "sleep",
+    "chineseName": "睡眠",
+    "description": "无法使用大部分招式",
+    "damage": 0
+  }
+}

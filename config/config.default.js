@@ -9,5 +9,23 @@ module.exports = appInfo => {
   // add your config here
   config.middleware = [];
 
+  config.security = {
+    csrf: {
+      enable: false,
+    },
+  };
+
+  config.cluster = {
+    listen: {
+      port: 7003,
+      hostname: '127.0.0.1',
+    },
+  };
+
+  config.siteFile = {
+    '/favicon.ico': '/public/favicon.ico',
+    '/public/favicon.ico': '/public/pokeball-flat.png',
+  };
+
   return config;
 };

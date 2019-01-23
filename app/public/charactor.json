@@ -1,0 +1,152 @@
+{
+  "Hardy": {
+    "charactor": "Hardy",
+    "chinese": "勤奋",
+    "increase": "—",
+    "decrease": "—"
+  },
+  "Lonely": {
+    "charactor": "Lonely",
+    "chinese": "怕寂寞",
+    "increase": "atk",
+    "decrease": "def"
+  },
+  "Adamant": {
+    "charactor": "Adamant",
+    "chinese": "固执",
+    "increase": "atk",
+    "decrease": "spa"
+  },
+  "Naughty": {
+    "charactor": "Naughty",
+    "chinese": "顽皮",
+    "increase": "atk",
+    "decrease": "spd"
+  },
+  "Brave": {
+    "charactor": "Brave",
+    "chinese": "勇敢",
+    "increase": "atk",
+    "decrease": "spe"
+  },
+  "Bold": {
+    "charactor": "Bold",
+    "chinese": "大胆",
+    "increase": "def",
+    "decrease": "atk"
+  },
+  "Docile": {
+    "charactor": "Docile",
+    "chinese": "坦率",
+    "increase": "—",
+    "decrease": "—"
+  },
+  "Impish": {
+    "charactor": "Impish",
+    "chinese": "淘气",
+    "increase": "def",
+    "decrease": "spa"
+  },
+  "Lax": {
+    "charactor": "Lax",
+    "chinese": "乐天",
+    "increase": "def",
+    "decrease": "spd"
+  },
+  "Relaxed": {
+    "charactor": "Relaxed",
+    "chinese": "悠闲",
+    "increase": "def",
+    "decrease": "spe"
+  },
+  "Modest": {
+    "charactor": "Modest",
+    "chinese": "内敛",
+    "increase": "spa",
+    "decrease": "atk"
+  },
+  "Mild": {
+    "charactor": "Mild",
+    "chinese": "慢吞吞",
+    "increase": "spa",
+    "decrease": "def"
+  },
+  "Bashful": {
+    "charactor": "Bashful",
+    "chinese": "害羞",
+    "increase": "—",
+    "decrease": "—"
+  },
+  "Rash": {
+    "charactor": "Rash",
+    "chinese": "马虎",
+    "increase": "spa",
+    "decrease": "spd"
+  },
+  "Quiet": {
+    "charactor": "Quiet",
+    "chinese": "冷静",
+    "increase": "spa",
+    "decrease": "spe"
+  },
+  "Calm": {
+    "charactor": "Calm",
+    "chinese": "温和",
+    "increase": "spd",
+    "decrease": "atk"
+  },
+  "Gentle": {
+    "charactor": "Gentle",
+    "chinese": "温顺",
+    "increase": "spd",
+    "decrease": "def"
+  },
+  "Careful": {
+    "charactor": "Careful",
+    "chinese": "慎重",
+    "increase": "spd",
+    "decrease": "spa"
+  },
+  "Quirky": {
+    "charactor": "Quirky",
+    "chinese": "浮躁",
+    "increase": "—",
+    "decrease": "—"
+  },
+  "Sassy": {
+    "charactor": "Sassy",
+    "chinese": "自大",
+    "increase": "spd",
+    "decrease": "spe"
+  },
+  "Timid": {
+    "charactor": "Timid",
+    "chinese": "胆小",
+    "increase": "spe",
+    "decrease": "atk"
+  },
+  "Hasty": {
+    "charactor": "Hasty",
+    "chinese": "急躁",
+    "increase": "spe",
+    "decrease": "def"
+  },
+  "Jolly": {
+    "charactor": "Jolly",
+    "chinese": "爽朗",
+    "increase": "spe",
+    "decrease": "spa"
+  },
+  "Naive": {
+    "charactor": "Naive",
+    "chinese": "天真",
+    "increase": "spe",
+    "decrease": "spd"
+  },
+  "Serious": {
+    "charactor": "Serious",
+    "chinese": "认真",
+    "increase": "—",
+    "decrease": "—"
+  }
+}
